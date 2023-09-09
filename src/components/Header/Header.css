@@ -1,0 +1,45 @@
+.header {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 180px;
+    margin-top: 13px;
+}
+.header img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.header div {
+    display: flex;
+    align-items: center;
+    
+}
+.header div a {
+    color: #213547;
+    padding: 0 10px;
+}
+hr {
+    width: 75%;
+    color: 	#A9A9A9;
+}
+#nav {
+    margin-right: 30px;
+}
+@media screen and (max-width: 600px) {
+    .header {
+        height: auto;
+        display: block;
+        padding: 0;
+        text-align: center;        
+    }
+    .header div {
+        display: block;
+        
+        
+    }
+    #nav {
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+}

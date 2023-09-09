@@ -1,0 +1,31 @@
+.article {
+    margin-bottom: 60px;
+}
+.article img {
+     width: 100%;
+}
+#userimg {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.user {
+    display: flex;
+    align-items: center;
+    
+}
+#userdt h5, small {
+    margin: 0;
+    padding: 0;
+}
+#user {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+.article button {
+    background-color: #cbcbcb;
+    padding: 4px 8px;
+    
+}

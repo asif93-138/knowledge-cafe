@@ -1,0 +1,25 @@
+.bookmarks1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 0;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+}
+.bookmarks2 {
+   
+    padding: 10px;
+    margin-top: 0;
+    border-radius: 5px;
+    background-color: #DCDCDC;
+}
+#firstb {
+    color: #725cee;
+    background-color: #efedfd;
+    border: 1px solid #725cee;
+}
+#bookmark {
+    position: sticky;
+    top: 0;
+    
+}
+.headline {text-align: center;}
